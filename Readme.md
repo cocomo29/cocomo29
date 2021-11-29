@@ -24,7 +24,7 @@
 
 </br>
 
-<p style="margin-left:329px">  🚀 My interests:</p>
+<p align="center"> 🚀 My interests:</p>
 
 <p align="center"> 
     <a href="" target="_blank"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/> </a>
@@ -46,7 +46,7 @@
 
 <br/>
 
-<p style="margin-left:309px">  📞 You can find me on:</p>
+<p align="center">   📞 You can find me on:</p>
 <p align="center"> 
     <a href="https://discordapp.com/users/558261366776004648/" target="_blank"> <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/> </a>
     <a href="https://www.facebook.com/haroon.abbasi.5055" target="_blank"> <img src="	https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/> </a>
@@ -59,7 +59,7 @@
 </p>
 
 
-
+<!-- rafay == smol -->
 
 
 
