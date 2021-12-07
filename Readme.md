@@ -86,4 +86,5 @@
 
 
 <br/><br/>
+<a href=https://github.com/cocomo29><img src="https://img.shields.io/badge/-Follow%20me-blue" alt="github.com/cocomo29">
 <a href="https://github.com/cocomo29?tab=followers"><img src="https://img.shields.io/github/followers/cocomo29?label=Followers&style=social" alt="GitHub Badge"></a>
