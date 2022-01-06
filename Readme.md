@@ -77,10 +77,9 @@
 ## 📊 My Github Stats
 
   <br/>
-    <a href="ps://github-readme-stats.vercel.app/api?username={username}"><img alt="coco's Github Stats" src="https://github-readme-stats.vercel.app/api?username=cocomo29&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="	https://github-readme-stats.vercel.app/api/top-langs/?username={username}"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cocomo29&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-
-  <b>
+    <img src="https://github-readme-stats.vercel.app/api?username=cocomo29&theme=midnight-purple">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=cocomo29&theme=midnight-purple">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cocomo29&theme=midnight-purple">
   Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 
