@@ -18,7 +18,7 @@
 
 - 💜 I'm a Blink and Army.
 
-- 📫 How to reach me **cocomo2907@gmail.com**
+- 📫 How to reach me **haroonabbasi2907@gmail.com**
 
 - ⚡ Fun fact **I love black themes and pets.**
 
