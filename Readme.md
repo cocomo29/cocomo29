@@ -80,7 +80,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=cocomo29&theme=midnight-purple">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=cocomo29&theme=midnight-purple">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cocomo29&theme=midnight-purple">
-  Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  Note:</b> Top languages are only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 
 
