@@ -69,7 +69,7 @@
   Note:</b> Top languages only show what my <b>public</b> code consists of. 
   </p>
 
-
+![snake gif](https://github.com/cocomo29/cocomo29/blob/output/github-contribution-grid-snake.svg)
 
 <br/><br/>
 <a href=https://github.com/cocomo29><img src="https://img.shields.io/badge/-Follow%20me-purple" alt="github.com/cocomo29">
