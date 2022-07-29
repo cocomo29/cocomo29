@@ -4,7 +4,7 @@
 
 
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=2px"> I'm Haroon</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=29px"> I'm Haroon</h1>
 <h3 align="center">I am a 20 years old computer science student.</h3>
 
 
