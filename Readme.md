@@ -1,76 +1,55 @@
-<p align="center" > 
-    <a href="" target="_blank"> <img height="290px"src="https://cdn.discordapp.com/attachments/818827898345095168/914910312271073311/unknown.png"/> </a>
-<p/>
+<img src="https://camo.githubusercontent.com/d348976f3419cd09cf731439742c1b889e3f3cd8e04b2e72e7a219d85b049c37/68747470733a2f2f636c6f75642d6c66697532373079302d6861636b2d636c75622d626f742e76657263656c2e6170702f30666f6f7465722e706e67" >
 
+# 🚀 About Me
+<img align="right" src="https://i.imgur.com/840b0PX.gif" width="420">
+<p align="left">Hey there! I'm Haroon Abbasi, a cybersecurity enthusiast and computer science undergraduate at <a href="https://www.uit.edu/">Usman Institute of Technology</a>. I'm passionate about staying ahead of the curve when it comes to the latest technologies and spend my days breaking and creating code. Currently, I am a proud core team member of <a href="https://gdscuit.web.app/">DSCUIT</a> and an active member of the <a href="https://www.ieee.org/">IEEE</a> chapter.
 
+When I'm not knee-deep in tech work, I like to unwind by playing football, gaming with my friends, or spending quality time with my furry companions. As an advocate for cybersecurity, I am always looking for new ways to protect people's online lives from the dangers of cybercrime.
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="29px"> I'm Haroon</h1>
-<h3 align="center">I am a 20 years old computer science student.</h3>
-
-
-
-<p align="center"> 🚀 My interests:</p>
-
-<p align="center"> 
-    <a href="" target="_blank"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/> </a>
-    <a href="" target="_blank"> <img  src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green"/> </a>  
-    <a href="" target="_blank"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/> </a> 
-    <a href="" target="_blank"> <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/> </a> 
-    <a href="" target="_blank"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> </a> 
-    <a href="" target="_blank"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> </a> 
-    <a href="" target="_blank"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> </a> 
-    <a href="" target="_blank"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> </a> 
-    <a href="" target="_blank"> <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="mongodb"  /> </a>  
-    <a href="" target="_blank"> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/> </a>
-    <a href="" target="_blank"> <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/> </a> 
-    </br>
-        <a href="" target="_blank"> <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/> </a>
-   
-   
-    
-
-<br/>
-
-<p align="center">   📞 You can find me on:</p>
-<p align="center"> 
-    <a href="https://discordapp.com/users/558261366776004648/" target="_blank"> <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/> </a>
-    <a href="https://www.facebook.com/haroon.abbasi.5055" target="_blank"> <img src="	https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/> </a>
-    <a href="https://www.instagram.com/hahaha._.haroon/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a> 
-    <a href="https://www.reddit.com/user/cocomo29/" target="_blank"> <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/> </a> 
-    <a href="https://codeforces.com/profile/cocomo29" target="_blank"> <img src="	https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"/> </a> 
-    <a href="https://open.spotify.com/user/l6r14501yuiuymdirya4rj8ec" target="_blank"> <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/> </a> 
-    <a href="https://steamcommunity.com/id/cocomo29/" target="_blank"> <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/> </a> 
-    <a href="https://www.linkedin.com/in/haroon-abbasi-uitu/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> 
-    
+Let's connect and chat about all things tech and cybersecurity - I'd love to hear from you!</br>
 </p>
 
+**Tech I am using and learning:**
 
-<!-- rafay == smol -->
+![My Skills](https://skillicons.dev/icons?i=linux,python,flask,js,fastapi,bash,selenium,mysql,html,css,git,tailwind,cpp,github,qt,bootstrap,heroku,figma,firebase,replit,mongo,flutter,docker,react,vscode,django,neovim&theme=dark&perline=9)
 
 
+**Connect with me:**
 
-<br/>
+[![My Skills](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/558261366776004648/)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/abbasi-haroon/)
+<a href="https://haroon.me"><img href="https://haroon.me" src="https://i.imgur.com/JXfZmZy.png" alt="Portfolio" width="50"></a>
+[![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/hahaha_haroon)
+[![My Skills](https://skillicons.dev/icons?i=instagram)](https://instagram.com/hahaha._.haroon)
 
-<p align="center">  💻 My setup</p>
+<details>
+  <summary>More ⚡</summary>
+<div align="center">
+<!-- <p align="center"> 📊 My Github Stats</p> -->
 <p align="center"> 
-    <a href="" target="_blank"> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/> </a>
-    <a href="" target="_blank"> <img src="https://img.shields.io/badge/Intel-Core_i5_8th-0071C5?style=for-the-badge&logo=intel&logoColor=white"/> </a>
-    <a href="" target="_blank"> <img src="https://img.shields.io/badge/AMD-Radeon_RX_570-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/> </a> 
-    <a href="" target="_blank"> <img src="https://camo.githubusercontent.com/55d09c07d331f85c42d9a292ec961b29899afd55151702f6d2d1a4dd30a8b107/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52414d2d3847422d2532333030373143352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f436f6c6f723d7768697465"/> </a> 
-    
-</p>
-
-<br/>
-<p align="center"> 📊 My Github Stats</p>
-<p align="center"> 
+</br></br>
+<p><b>Profile Counter</b></p>
+	<img src="https://profile-counter.glitch.me/%7Bcocomo29%7D/count.svg"> </br></br>
+<p><b>Github Stats</b></p>
     <img src="https://github-readme-stats.vercel.app/api?username=cocomo29&theme=midnight-purple"> </br>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=cocomo29&theme=midnight-purple"> </br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cocomo29&theme=midnight-purple"> </br>
-  Note:</b> Top languages only show what my <b>public</b> code consists of. 
-  </p>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=cocomo29&theme=midnight-purple"> </br></br>
+</p>
+
+<p><b>Holopin Badges</b></p>
+
+[![An image of @cocomo's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/cocomo)](https://holopin.io/@cocomo)
+
+<details>
+<summary><b>-_-</b></summary>
+
+![rickroll](https://www.icegif.com/wp-content/uploads/rickroll-icegif-4.gif)
+
+</details>
+</details>
+</div>
+
+<div align="center">
 
 ![snake gif](https://github.com/cocomo29/cocomo29/blob/output/github-contribution-grid-snake.svg)
 
-<br/><br/>
-<a href=https://github.com/cocomo29><img src="https://img.shields.io/badge/-Follow%20me-purple" alt="github.com/cocomo29">
-<a href="https://github.com/cocomo29?tab=followers"><img src="https://img.shields.io/github/followers/cocomo29?label=Followers&style=social" alt="GitHub Badge"></a>
+</div>
