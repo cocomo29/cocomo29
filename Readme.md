@@ -28,7 +28,7 @@ Let's connect and chat about all things tech and cybersecurity - I'd love to hea
 <!-- <p align="center"> 📊 My Github Stats</p> -->
 <p align="center"> 
 </br></br>
-<p><b>Profile Counter</b></p>
+<p><b>Profile Views</b></p>
 	<img src="https://profile-counter.glitch.me/%7Bcocomo29%7D/count.svg"> </br></br>
 <p><b>Github Stats</b></p>
     <img src="https://github-readme-stats.vercel.app/api?username=cocomo29&theme=midnight-purple"> </br>
