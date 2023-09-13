@@ -2,7 +2,7 @@
 
 # 🚀 About Me
 <img align="right" src="https://i.imgur.com/840b0PX.gif" width="329">
-<p align="left">Hey there! I'm Haroon Abbasi, a cybersecurity enthusiast and computer science undergraduate at <a href="https://www.uit.edu/">Usman Institute of Technology</a>. I'm passionate about staying ahead of the curve when it comes to the latest technologies and spend my days breaking and creating code. Currently, I am a proud core team member of <a href="https://gdscuit.web.app/">DSCUIT</a> and an active member of the <a href="https://www.ieee.org/">IEEE</a> chapter.
+<p align="left">Hey there! I'm Haroon Abbasi, a cybersecurity enthusiast and computer science undergraduate at <a href="https://www.uit.edu/">Usman Institute of Technology</a>. I'm passionate about staying ahead of the curve when it comes to the latest technologies and spend my days breaking and creating code. Currently, I am a proud core team member of <a href="https://gdscuit.web.app/">Google DSCUIT</a>, a Beta <a href="https://mvp.microsoft.com/en-US/studentambassadors/profile/fc57aa4a-0563-4070-b764-530fbe94308e">Microsoft Learn Student Ambassador</a> and an active member of the <a href="https://www.ieee.org/">IEEE</a> chapter.
 
 When I'm not knee-deep in tech work, I like to unwind by playing football, gaming with my friends, or spending quality time with my furry companions. As an advocate for cybersecurity, I am always looking for new ways to protect people's online lives from the dangers of cybercrime.
 
