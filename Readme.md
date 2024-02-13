@@ -1,4 +1,5 @@
-<img src="https://camo.githubusercontent.com/d348976f3419cd09cf731439742c1b889e3f3cd8e04b2e72e7a219d85b049c37/68747470733a2f2f636c6f75642d6c66697532373079302d6861636b2d636c75622d626f742e76657263656c2e6170702f30666f6f7465722e706e67" >
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
+
 
 # 🚀 About Me
 <img align="right" src="https://i.imgur.com/840b0PX.gif" width="329">
