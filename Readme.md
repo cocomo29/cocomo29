@@ -1,56 +1,29 @@
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Animated divider" width="100%" />
 
+# Haroon Abbasi
 
-# 🚀 About Me
-<img align="right" src="https://i.imgur.com/840b0PX.gif" width="329">
-<p align="left">Hey there! I'm Haroon Abbasi, a cybersecurity enthusiast and computer science undergraduate at <a href="https://www.uit.edu/">Usman Institute of Technology</a>. I'm passionate about staying ahead of the curve when it comes to the latest technologies and spend my days breaking and creating code. Currently, I am a proud core team member of <a href="https://gdscuit.web.app/">Google DSCUIT</a>, a Beta <a href="https://mvp.microsoft.com/en-US/studentambassadors/profile/fc57aa4a-0563-4070-b764-530fbe94308e">Microsoft Learn Student Ambassador</a> and an active member of the <a href="https://www.ieee.org/">IEEE</a> chapter.
+**Senior Manager - SOC** | **SOC Automation Consultant** | **LogRhythm Administrator**
 
-When I'm not knee-deep in tech work, I like to unwind by playing football, gaming with my friends, or spending quality time with my furry companions. As an advocate for cybersecurity, I am always looking for new ways to protect people's online lives from the dangers of cybercrime.
+```console
+haroon@secops:~$ cat ~/principles.conf
+[operating_model]
+assume_breach     = true
+defense_in_depth  = always
+zero_trust        = verify_explicitly
 
-Let's connect and chat about all things tech and cybersecurity - I'd love to hear from you!</br>
-</p>
+haroon@secops:~$ echo $APPROACH
+Understand the attack. Engineer the defense. Automate the repeatable.
+```
 
-**Tech I am using and learning:**
+I lead **Security Operations** and consult on **SOC automation** - improving how teams detect, investigate, and respond, while automating the manual work that slows them down.
 
-![My Skills](https://skillicons.dev/icons?i=linux,python,flask,js,fastapi,bash,selenium,mysql,html,css,git,tailwind,cpp,github,qt,bootstrap,heroku,figma,firebase,replit,mongo,flutter,docker,react,vscode,django,neovim&theme=dark&perline=9)
+I work across **offensive and defensive security**. Understanding how attackers think helps me build defenses that hold up in the real world.
 
+**Areas of focus:** SOC leadership · Security automation · Detection & response · Offense-informed defense · LogRhythm · Automation
 
-**Connect with me:**
-
-[![My Skills](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/558261366776004648/)
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/abbasi-haroon/)
-<a href="https://haroon.me"><img href="https://haroon.me" src="https://i.imgur.com/JXfZmZy.png" alt="Portfolio" width="50"></a>
-[![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/hahaha_haroon)
-[![My Skills](https://skillicons.dev/icons?i=instagram)](https://instagram.com/hahaha._.haroon)
 
 <details>
-  <summary>More ⚡</summary>
-<div align="center">
-<!-- <p align="center"> 📊 My Github Stats</p> -->
-<p align="center"> 
-</br></br>
-<p><b>Profile Views</b></p>
-	<img src="https://profile-counter.glitch.me/%7Bcocomo29%7D/count.svg"> </br></br>
-<p><b>Github Stats</b></p>
-    <img src="https://github-readme-stats.vercel.app/api?username=cocomo29&theme=midnight-purple"> </br>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=cocomo29&theme=midnight-purple"> </br></br>
-</p>
-
-<p><b>Holopin Badges</b></p>
-
-[![An image of @cocomo's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/cocomo)](https://holopin.io/@cocomo)
-
-<details>
-<summary><b>-_-</b></summary>
-
-![rickroll](https://www.icegif.com/wp-content/uploads/rickroll-icegif-4.gif)
-
+  <summary>-_-</summary>
+  <br />
+  <img src="https://www.icegif.com/wp-content/uploads/rickroll-icegif-4.gif" alt="Rickroll" width="360" />
 </details>
-</details>
-</div>
-
-<div align="center">
-
-![snake gif](https://github.com/cocomo29/cocomo29/blob/output/github-contribution-grid-snake.svg)
-
-</div>
