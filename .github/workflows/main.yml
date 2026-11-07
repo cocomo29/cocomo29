@@ -1,29 +1,31 @@
-
 name: Generate Snake
+
 on:
   schedule:
-    - cron: "0 */6 * * *"
+    - cron: '23 4 * * *'
   workflow_dispatch:
+
+permissions:
+  contents: write
+
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: Platane/snk@master
-        id: snake-gif
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Generate the animated contribution snake
+        uses: Platane/snk@v3
         with:
           github_user_name: cocomo29
-          gif_out_path: dist/github-contribution-grid-snake.gif
-          svg_out_path: dist/github-contribution-grid-snake.svg
-      - run: git status
-      - name: Push changes
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: master
-          force: true
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.gif?color_snake=#a78bfa&color_dots=#161b22,#34224c,#533775,#7650a5,#a78bfa&color_background=#0d1117
 
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
+      - name: Publish snake images to output branch
+        uses: crazy-max/ghaction-github-pages@v5
         with:
           target_branch: output
           build_dir: dist
